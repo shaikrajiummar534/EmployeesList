@@ -1,0 +1,34 @@
+// Employee.json
+
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "position": "Software Engineer",
+    "email": "john@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "position": "UI/UX Designer",
+    "email": "jane@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "position": "Project Manager",
+    "email": "bob@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "position": "Frontend Developer",
+    "email": "alice@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Brown",
+    "position": "Marketing Specialist",
+    "email": "charlie@example.com"
+  }
+]
